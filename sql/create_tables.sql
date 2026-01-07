@@ -15,3 +15,11 @@ CREATE TABLE customers (
     total_charges DECIMAL(10,2),
     churn VARCHAR(5)
 );
+
+SELECT * FROM customers
+
+SELECT *FROM customers LIMIT 5
+
+SELECT churn, COUNT(*) FROM customers GROUP BY churn
+
+
