@@ -161,6 +161,15 @@ These insights can help businesses:
 
 ---
 
+## Overview:
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/dcb02c9f-3bfe-48b0-8616-bb9b09226924" />
+<img width="762" height="778" alt="image" src="https://github.com/user-attachments/assets/7d1c8959-1fb3-4253-96d7-45f04cbd6edc" />
+<img width="696" height="774" alt="image" src="https://github.com/user-attachments/assets/b7b493a8-6d66-4f40-bf12-1e17a11fac14" />
+
+
+
+
+---
 ## Future Improvements
 
 * Try non-linear models (Random Forest, XGBoost)
